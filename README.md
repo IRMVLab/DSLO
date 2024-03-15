@@ -1,3 +1,3 @@
-# STIF-LO
+# DSLO
 
-Codes for paper "STIF-LO: Deep LiDAR Odometry Based on Spatio-temporal Information Fusion".
+Codes for paper "DSLO: Deep Sequence LiDAR Odometry Based on Inconsistent Spatio-temporal Propagation".
